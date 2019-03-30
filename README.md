@@ -6,7 +6,8 @@
     ```sh
     mkdir readwritexmlpy && cd readwritexmlpy
     ```
-2. Clonar el repositorio en la carpeta; el `.` al final de la linea indica que se clonara en el directorio sin crear una subcarpeta:
+2. Clonar el repositorio en la carpeta; 
+    > *el `.` al final de la linea indica que se clonará en la carpeta raíz sin crear una subcarpeta*:
     ```sh
     git clone https://github.com/cuahutli/working-with-xml-in-python.git .
     ```
@@ -14,7 +15,7 @@
     ```sh
     virtualenv venv
     ```
-    > si se tienen más de una instalación local en python y se necesita crear el entorno virtual con una versión diferente a la versión por default del sistema usar `virtualenv -p path/to/python.exe venv`
+    > si se tiene más de una instalación local de python y se necesita crear el entorno virtual con una versión diferente a la versión por default del sistema usar `virtualenv -p path/to/python.exe venv`
 4. Activar el entorno virtual:
     ```sh
     #Windows
