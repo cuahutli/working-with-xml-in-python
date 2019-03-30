@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<caja_samao>
+    <caja_local id="0" nombre="SIN NOMBRE" nombre_con_formato="SIN_NOMBRE" nombre_corto="SIN NOMBRE">
+        <total_socios>4</total_socios>
+        <mujeres>0</mujeres>
+        <hombres>4</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="1" nombre="BUCKINGHAM ( 01 )" nombre_con_formato="BUCKINGHAM" nombre_corto="BUCKINGHAM">
+        <total_socios>56</total_socios>
+        <mujeres>20</mujeres>
+        <hombres>36</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="2" nombre="CERRO BLANCO ( 02 )" nombre_con_formato="CERRO_BLANCO" nombre_corto="CERRO BLANCO">
+        <total_socios>515</total_socios>
+        <mujeres>267</mujeres>
+        <hombres>247</hombres>
+        <morales>1</morales>
+    </caja_local>
+    <caja_local id="3" nombre="COFRADIA DE ACUITAPILCO ( 03 )" nombre_con_formato="COFRADIA_DE_ACUITAPILCO" nombre_corto="COFRADIA DE ACUITAPILCO">
+        <total_socios>152</total_socios>
+        <mujeres>74</mujeres>
+        <hombres>78</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="4" nombre="TEQUEPEXPAN C.I. ( 04 )," nombre_con_formato="TEQUEPEXPAN_C.I." nombre_corto="TEQUEPEXPAN C.I.">
+        <total_socios>118</total_socios>
+        <mujeres>50</mujeres>
+        <hombres>68</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="5" nombre="TEQUEPEXPAN EJIDO   (05)" nombre_con_formato="TEQUEPEXPAN_EJIDO" nombre_corto="TEQUEPEXPAN EJIDO">
+        <total_socios>370</total_socios>
+        <mujeres>166</mujeres>
+        <hombres>204</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="6" nombre="EL ERMITANO (06)" nombre_con_formato="EL_ERMITANO" nombre_corto="EL ERMITANO">
+        <total_socios>86</total_socios>
+        <mujeres>34</mujeres>
+        <hombres>52</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="7" nombre="EL LIMON  (07)" nombre_con_formato="EL_LIMON" nombre_corto="EL LIMON">
+        <total_socios>239</total_socios>
+        <mujeres>96</mujeres>
+        <hombres>142</hombres>
+        <morales>1</morales>
+    </caja_local>
+    <caja_local id="8" nombre="EL OCOTILLO  (08)" nombre_con_formato="EL_OCOTILLO" nombre_corto="EL OCOTILLO">
+        <total_socios>52</total_socios>
+        <mujeres>25</mujeres>
+        <hombres>27</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="9" nombre="EL TORREON (09)" nombre_con_formato="EL_TORREON" nombre_corto="EL TORREON">
+        <total_socios>120</total_socios>
+        <mujeres>52</mujeres>
+        <hombres>66</hombres>
+        <morales>2</morales>
+    </caja_local>
+    <caja_local id="10" nombre="LA  ESTANZUELA  (10)" nombre_con_formato="LA__ESTANZUELA" nombre_corto="LA  ESTANZUELA">
+        <total_socios>52</total_socios>
+        <mujeres>23</mujeres>
+        <hombres>29</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="11" nombre="LAS MESITAS (11)" nombre_con_formato="LAS_MESITAS" nombre_corto="LAS MESITAS">
+        <total_socios>78</total_socios>
+        <mujeres>30</mujeres>
+        <hombres>48</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="12" nombre="MIGUEL HIDALGO (12)" nombre_con_formato="MIGUEL_HIDALGO" nombre_corto="MIGUEL HIDALGO">
+        <total_socios>80</total_socios>
+        <mujeres>40</mujeres>
+        <hombres>40</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="13" nombre="MOJARRITAS (13)" nombre_con_formato="MOJARRITAS" nombre_corto="MOJARRITAS">
+        <total_socios>34</total_socios>
+        <mujeres>14</mujeres>
+        <hombres>20</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="14" nombre="REAL DE ACUITAPILCO (14)" nombre_con_formato="REAL_DE_ACUITAPILCO" nombre_corto="REAL DE ACUITAPILCO">
+        <total_socios>56</total_socios>
+        <mujeres>16</mujeres>
+        <hombres>40</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="15" nombre="ZAPOTANITO (15)" nombre_con_formato="ZAPOTANITO" nombre_corto="ZAPOTANITO">
+        <total_socios>343</total_socios>
+        <mujeres>160</mujeres>
+        <hombres>182</hombres>
+        <morales>1</morales>
+    </caja_local>
+    <caja_local id="22" nombre="CANTILES (22)" nombre_con_formato="CANTILES" nombre_corto="CANTILES">
+        <total_socios>65</total_socios>
+        <mujeres>22</mujeres>
+        <hombres>43</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="24" nombre="TEQUEPEXPAN P.P. (24)" nombre_con_formato="TEQUEPEXPAN_P.P." nombre_corto="TEQUEPEXPAN P.P.">
+        <total_socios>96</total_socios>
+        <mujeres>43</mujeres>
+        <hombres>53</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="25" nombre="SAN JOSE DE MOJARRAS (25)" nombre_con_formato="SAN_JOSE_DE_MOJARRAS" nombre_corto="SAN JOSE DE MOJARRAS">
+        <total_socios>232</total_socios>
+        <mujeres>115</mujeres>
+        <hombres>117</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="26" nombre="COLONIA MODERNA (26)" nombre_con_formato="COLONIA_MODERNA" nombre_corto="COLONIA MODERNA">
+        <total_socios>257</total_socios>
+        <mujeres>118</mujeres>
+        <hombres>139</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="27" nombre="LA HERRADURA (27)" nombre_con_formato="LA_HERRADURA" nombre_corto="LA HERRADURA">
+        <total_socios>11</total_socios>
+        <mujeres>4</mujeres>
+        <hombres>7</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="31" nombre="RINCON DE CALIMAYO (31)" nombre_con_formato="RINCON_DE_CALIMAYO" nombre_corto="RINCON DE CALIMAYO">
+        <total_socios>138</total_socios>
+        <mujeres>61</mujeres>
+        <hombres>77</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="34" nombre="SANTA MARIA DEL ORO. P. P. (34)" nombre_con_formato="SANTA_MARIA_DEL_ORO._P._P." nombre_corto="SANTA MARIA DEL ORO. P. P.">
+        <total_socios>383</total_socios>
+        <mujeres>196</mujeres>
+        <hombres>184</hombres>
+        <morales>3</morales>
+    </caja_local>
+    <caja_local id="35" nombre="CHAPALILLA (35)" nombre_con_formato="CHAPALILLA" nombre_corto="CHAPALILLA">
+        <total_socios>287</total_socios>
+        <mujeres>138</mujeres>
+        <hombres>149</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="37" nombre="LA LABOR (37)" nombre_con_formato="LA_LABOR" nombre_corto="LA LABOR">
+        <total_socios>413</total_socios>
+        <mujeres>205</mujeres>
+        <hombres>208</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="38" nombre="SAN LEONEL (38)" nombre_con_formato="SAN_LEONEL" nombre_corto="SAN LEONEL">
+        <total_socios>299</total_socios>
+        <mujeres>151</mujeres>
+        <hombres>142</hombres>
+        <morales>6</morales>
+    </caja_local>
+    <caja_local id="39" nombre="EL BURUATO (39)" nombre_con_formato="EL_BURUATO" nombre_corto="EL BURUATO">
+        <total_socios>157</total_socios>
+        <mujeres>68</mujeres>
+        <hombres>89</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="40" nombre="TEQUEPEXPAN (40)" nombre_con_formato="TEQUEPEXPAN" nombre_corto="TEQUEPEXPAN">
+        <total_socios>52</total_socios>
+        <mujeres>18</mujeres>
+        <hombres>34</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="41" nombre="SAN JOSE (41)" nombre_con_formato="SAN_JOSE" nombre_corto="SAN JOSE">
+        <total_socios>170</total_socios>
+        <mujeres>64</mujeres>
+        <hombres>106</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="42" nombre="TEPETILTIC (42)" nombre_con_formato="TEPETILTIC" nombre_corto="TEPETILTIC">
+        <total_socios>61</total_socios>
+        <mujeres>23</mujeres>
+        <hombres>38</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="43" nombre="CERRO BLANCO ( 43 )" nombre_con_formato="CERRO_BLANCO" nombre_corto="CERRO BLANCO">
+        <total_socios>431</total_socios>
+        <mujeres>203</mujeres>
+        <hombres>228</hombres>
+        <morales>0</morales>
+    </caja_local>
+    <caja_local id="44" nombre="TEPIC (44)" nombre_con_formato="TEPIC" nombre_corto="TEPIC">
+        <total_socios>798</total_socios>
+        <mujeres>398</mujeres>
+        <hombres>398</hombres>
+        <morales>2</morales>
+    </caja_local>
+    <caja_local id="45" nombre="EJIDO SANTA MARIA (45)" nombre_con_formato="EJIDO_SANTA_MARIA" nombre_corto="EJIDO SANTA MARIA">
+        <total_socios>732</total_socios>
+        <mujeres>347</mujeres>
+        <hombres>384</hombres>
+        <morales>1</morales>
+    </caja_local>
+</caja_samao>
