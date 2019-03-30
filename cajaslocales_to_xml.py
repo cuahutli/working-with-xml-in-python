@@ -33,14 +33,35 @@ order by
     }
     return info
 
+def get_totales_generales(datos):
+    
+    totales = {
+        'socios': 0,
+        'hombres': 0,
+        'mujeres': 0,
+        'morales': 0,
+    }
+    for data in datos['data']:
+        totales['socios']   += data['total_socios']
+        totales['hombres']  += data['hombres']
+        totales['mujeres']  += data['mujeres']
+        totales['morales']  += data['morales']
+    
+    return totales
+
+
 def prettify(data): 
     raw_data = ET.tostring(data, 'utf-8')
-    print(raw_data)
     reparsed = minidom.parseString(raw_data)
     return reparsed.toprettyxml(indent="    ")
 
 def crea_xml(datos):
     root = ET.Element("caja_samao")
+    totales = get_totales_generales(datos)    
+    for k,v in totales.items():
+        data = ET.SubElement(root, 'total_' + k)
+        data.text = str(v)
+
     for dato in datos['data']:
         caja = ET.SubElement(root, 'caja_local')
         caja.set("id", str(dato['caja_local']))
